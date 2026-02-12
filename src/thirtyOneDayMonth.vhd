@@ -88,7 +88,7 @@ begin
 	           i_D when "011",
 	           not i_D when "100",
 	           not i_D when "101",
-	           not i_D when "101",
+	           not i_D when "110",
 	           '0'     when others;
 	---------------------------------------------------------------	
 end thirtyOneDayMonth_arch;
